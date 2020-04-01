@@ -1,7 +1,12 @@
-git commands:
+# git commands tutorial By Andrea Scarpelli:
 
 git clone https://github.com/zhangaw325/Hello-world-repo.git
 
 git status
 
+git add <file>   or "git add ." means add all files
+
+git commit -m "a meesage of the changes"
+
+git push
 
