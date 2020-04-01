@@ -1,2 +1,2 @@
 # Hello-world-repo
-Reposotory for the BNL internal Git walkthrough tutorial
+Reposotory for the BNL internal Git tutorial
