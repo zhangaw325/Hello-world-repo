@@ -1,14 +1,21 @@
 # git commands tutorial By Andrea Scarpelli:
 
-git clone https://github.com/zhangaw325/Hello-world-repo.git
+#1. git clone https://github.com/zhangaw325/Hello-world-repo.git
 
-git status
+#git status
 
-git add <file>   or "git add ." means add all files
+#git add <file>   or "git add ." means add all files
 
-git commit -m "a meesage of the changes"
+#git commit -m "a meesage of the changes"
 
 In this command, we can see author, name, email, etc, which maybe added in .git/config file
 
-git push
+#git push
+
+when I do the push, I had the trouble of failed to use https
+the solution is to change in .git/config file: 
+
+I changed the url to https://zhangaw325@github.com/zhangaw325/Hello-world-repo
+
+
 
