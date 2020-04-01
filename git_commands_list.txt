@@ -1,0 +1,7 @@
+git commands:
+
+git clone https://github.com/zhangaw325/Hello-world-repo.git
+
+git status
+
+
